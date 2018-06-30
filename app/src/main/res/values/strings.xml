@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="this_is_the_hello_world_application">Course List</string>
+    <string name="Course_List">Course List</string>
+</resources>
